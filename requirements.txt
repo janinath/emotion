@@ -225,7 +225,6 @@ six==1.16.0
 sklearn==0.0
 sortedcontainers==2.4.0
 srsly==2.4.7
-sympy==1.12.1
 tables==3.8.0
 tensorboard==2.14.0
 tensorboardX==2.6
