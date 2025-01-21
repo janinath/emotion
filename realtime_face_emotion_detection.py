@@ -9,7 +9,7 @@ import numpy as np
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import model_from_json, load_model
 import face_recognition
-print(face_recognition.__version__)
+
 
 #capture the video from default camera 
 webcam_video_stream = cv2.VideoCapture(0)
