@@ -202,7 +202,6 @@ pickleshare==0.7.5
 Pillow==9.5.0
 pip==23.2.1
 pluggy==1.0.0
-pooch==1.9.1
 progressbar2==4.2.0
 prometheus-client==0.17.1
 prometheus-flask-exporter==0.20.0
